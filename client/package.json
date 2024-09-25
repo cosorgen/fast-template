@@ -1,0 +1,13 @@
+{
+  "name": "fast-template-client",
+  "private": true,
+  "type": "module",
+  "version": "0.0.1",
+  "description": "A FAST web component based project",
+  "main": "src/index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@microsoft/fast-element": "^2.0.0-beta.26"
+  }
+}
